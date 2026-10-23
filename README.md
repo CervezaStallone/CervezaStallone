@@ -10,10 +10,13 @@ I'm a freelance dev ([brdc.nl](https://brdc.nl)) from the Netherlands and spend 
 - [node-red-contrib-network-tools](https://github.com/CervezaStallone/node-red-contrib-brdc-network-tools) adds nine nodes to Node-RED for network discovery, monitoring and diagnostics.  
   ![npm downloads](https://img.shields.io/npm/dm/node-red-contrib-network-tools?style=flat-square&logo=npm&logoColor=white&label=downloads&labelColor=24292f&color=CB3837) ![Node-RED](https://img.shields.io/badge/Node--RED-nodes-24292f?style=flat-square&logo=nodered&logoColor=white)
 
-## Buy me a coffee
+## Support my work
 
-Everything here is free to use. If my work is useful to you, consider buying me a coffee. A cerveza is fine too :)
+Everything here is free to use. If my work is useful to you, consider sponsoring me on GitHub or buying me a coffee. A cerveza is fine too :)
 
+<a href="https://github.com/sponsors/CervezaStallone" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="50">
+</a>
 <a href="https://buymeacoffee.com/cervezastalone" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
 </a>
