@@ -15,10 +15,10 @@ I'm a freelance dev ([brdc.nl](https://brdc.nl)) from the Netherlands and spend 
 Everything here is free to use. If my work is useful to you, consider sponsoring me on GitHub or buying me a coffee. A cerveza is fine too :)
 
 <a href="https://github.com/sponsors/CervezaStallone" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="50">
+  <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="40">
 </a>
 <a href="https://buymeacoffee.com/cervezastalone" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+  <img src="https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" height="40">
 </a>
 
 Found a bug or have a feature request? Open an issue on the repo in question.
